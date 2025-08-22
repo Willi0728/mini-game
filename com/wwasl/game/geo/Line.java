@@ -1,4 +1,4 @@
-package com.wwasl.game;
+package com.wwasl.game.geo;
 
 public class Line {
 	public Vertex start, end;

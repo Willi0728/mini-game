@@ -1,4 +1,4 @@
-package com.wwasl.game;
+package com.wwasl.game.geo;
 
 public class Triangle {
     public Vertex v1, v2, v3;

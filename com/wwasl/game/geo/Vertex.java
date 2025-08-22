@@ -1,4 +1,4 @@
-package com.wwasl.game;
+package com.wwasl.game.geo;
 
 public class Vertex {
     public float x, y, z;

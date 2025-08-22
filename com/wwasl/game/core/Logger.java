@@ -1,4 +1,4 @@
-package com.wwasl.game;
+package com.wwasl.game.core;
 
 import java.io.PrintStream;
 import java.time.Instant;

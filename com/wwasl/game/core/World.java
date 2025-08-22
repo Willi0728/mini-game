@@ -1,4 +1,7 @@
-package com.wwasl.game;
+package com.wwasl.game.core;
+
+import com.wwasl.game.geo.Triangle;
+import com.wwasl.game.geo.Vertex;
 
 import java.util.ArrayList;
 public class World {

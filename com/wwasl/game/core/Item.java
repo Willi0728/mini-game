@@ -1,4 +1,6 @@
-package com.wwasl.game;
+package com.wwasl.game.core;
+
+import com.wwasl.game.geo.Vertex;
 
 import java.awt.*;
 

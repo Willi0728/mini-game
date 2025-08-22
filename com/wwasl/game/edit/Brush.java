@@ -1,7 +1,9 @@
-package com.wwasl.game;
+package com.wwasl.game.edit;
 
 // Package it if you're moving out of default package, e.g.:
 // package com.minigame.edit;
+
+import com.wwasl.game.geo.Vertex;
 
 import java.util.Objects;
 
@@ -9,7 +11,6 @@ import java.util.Objects;
  * Brush = a declarative "edit intent" for the world.
  * The world/engine interprets this (e.g., voxel CSG),
  * not this class itself.
- *
  * Keep this POD-like: small, serializable, and deterministic.
  */
 public final class Brush {
